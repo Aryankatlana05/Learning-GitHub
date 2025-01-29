@@ -56,7 +56,7 @@
    *git remote -v (to verify remote)
    *git branch (To know which branch we are)
    *git branch -M <-name-> (To change the branch name)
-   git push-u origin main
+   *git push-u origin main
 
 10. Git Branch
     *git branch -> It show the current branch
