@@ -84,5 +84,13 @@
    *git reset --hard<-commit hash->
 
 
+*# Feature -> Fork
+Fork is used to copy the code for the others id and get it into myId
+
+Steps -> 1.Search the code on gitHub 
+         2.Go into any one
+         3.There are a Option of Fork Click it and made a copy on myID
+         
+
 
    
