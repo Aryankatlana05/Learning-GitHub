@@ -1,0 +1,64 @@
+// Here some commands of Git
+
+1. *git --version 
+  It is used to check the version of git
+
+2. Configuring Git
+   It is used to perform changes on git using github
+{
+   a. *git --global user.name"Aryan"
+   b. *git --global user.email"aryankatlana@gmail.com"
+   c. *git config --list
+      It is used to know what we config 
+}
+
+3. clone command
+   It is used to access the github repo into owr system
+   *git clone (https://github.com/Aryankatlana05/Learning-GitHub.git) link of that github repository
+   Now that repo is in owr VsCode!
+
+4. cd it is used to change the directory 
+   *cd (Foldar name)
+   *clear -> To clear the Terminal
+   *ls -a -> It is used to check hidden files 
+
+5. Status Command 
+   It show the status of owr code 
+   *(git status)
+
+   There are 4 type of status 
+
+   a.untracked -> It means there is new file that git does not track
+
+   b.modified -> It means there are some modifications on that file
+
+   c.unmodified -> It means there is not do modification
+
+   d.staged -> It means file is ready to committed
+
+6. Add Command
+   It is used to adds new or changed filr in your working directory to the Git staging area
+   *git add <-file name->   (to add the modified file)
+   *git add. -> (To add verious file at once)
+
+7. commit Command
+   It is used to commite changes 
+   *git commit -m "Some message" (To commit the code)
+
+8. Push Command
+   It is used to push owr local repo(Vs code file) to the remote repo(GitHub)
+   *git push origin main (to push the code into GitHub)
+
+9. Init Command
+   It is used to create a new git repo
+   *git init
+   *git remote add origin<- Link -> (to add gitHub repo into vscode)
+   *git remote -v (to verify remote)
+   *git branch (To know which branch we are)
+   *git branch -M <-name-> (To change the branch name)
+   git push-u origin main
+
+
+
+
+   
