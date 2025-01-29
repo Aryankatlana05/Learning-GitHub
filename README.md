@@ -5,4 +5,4 @@ Lead - Aryan Katlana
 <br>
 I am learning the github
 <br>
-Student Name - Aryan KAtlana
+Student Name - Aryan Katlana
