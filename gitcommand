@@ -58,6 +58,12 @@
    *git branch -M <-name-> (To change the branch name)
    git push-u origin main
 
+10. Git Branch
+    *git branch -> It show the current branch
+    *git branch -M main -> It rename the branch name
+    *git checkout <-branch name-> -> It is used to exit that branch
+    *git checkout -b <-new branch name-> -> It is used to create new branch
+    *git branch -d <-branch name-> -> It is used to delete the branch
 
 
 
