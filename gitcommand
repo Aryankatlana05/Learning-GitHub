@@ -65,6 +65,24 @@
     *git checkout -b <-new branch name-> -> It is used to create new branch
     *git branch -d <-branch name-> -> It is used to delete the branch
 
+11.check all commite
+   *git log
+
+
+12.Undoing changes
+   It is used to undo the changer
+
+   case 1: staged changes
+   *git reset <-file name->
+   *git reset (for multiple reset)
+
+   case 2: commited changed (for "one" commite)
+   *git reset HEAD~1 
+
+   case 3: commited changes(for "many" commits)
+   *git reset <-Commit hash->
+   *git reset --hard<-commit hash->
+
 
 
    
